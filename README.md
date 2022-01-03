@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ambhoj Kumar 
 - 👀 I’m interested in cloud and devops technologies 
 - 🌱 I’m currently learning various various cloud and DevOps technologies
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AWS, Devops projects 
 - 📫 i am reachable at ambhoj10@gmail.com and 8217713378
 
 <!---
