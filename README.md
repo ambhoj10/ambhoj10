@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ambhoj10
+- 👋 Hi, I’m Ambhoj Kumar 
 - 👀 I’m interested in cloud and devops technologies 
 - 🌱 I’m currently learning various various cloud and DevOps technologies
 - 💞️ I’m looking to collaborate on ...
